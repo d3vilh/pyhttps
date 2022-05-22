@@ -11,7 +11,7 @@ Simple python https server creator.
 
 ## Installation from source
 
-- Clone repo: `git clone https://github.com/talhasch/pyhttps && cd pyhttps`
+- Clone repo: `git clone https://github.com/d3vilh/pyhttps && cd pyhttps`
 
 - Run: `python setup.py install`
 
